@@ -17,6 +17,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hyoshida/hyoshida/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hyoshida/hyoshida/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hyoshida/hyoshida/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/hyoshida/hyoshida/output/snake.svg" alt="Snake animation" />
+</picture>
 
 ###
